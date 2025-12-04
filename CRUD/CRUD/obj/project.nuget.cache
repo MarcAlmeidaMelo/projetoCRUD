@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vvPojZzcrc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Almei\\Desktop\\Almei\\CRUD\\CRUD\\CRUD\\CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Almei\\.nuget\\packages\\oracle.manageddataaccess.core\\23.26.0\\oracle.manageddataaccess.core.23.26.0.nupkg.sha512",
+    "C:\\Users\\Almei\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Almei\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\Almei\\.nuget\\packages\\system.directoryservices.protocols\\8.0.2\\system.directoryservices.protocols.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
