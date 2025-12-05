@@ -6,7 +6,7 @@ namespace CRUD
     {
         // ==== CONFIGURAÇÃO DO ORACLE ====
         // Substitua pelos dados do seu banco Oracle
-        string cs = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=ORCL)));User Id=SEU_USUARIO;Password=SUA_SENHA;";
+        string cs = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.0.135)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=XEPDB1)));User Id=usuario;Password=1234";
 
         // Objetos do Oracle (equivalentes aos do SQLite)
         OracleConnection ? con;
